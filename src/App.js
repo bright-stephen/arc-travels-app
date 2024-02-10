@@ -4,7 +4,7 @@ import LayOut from './Pages/LayOut';
 import Home from './Pages/Home';
 import Blogs from './Pages/Blogs';
 import BlogsDetails from './Pages/BlogsDetails';
-// import NoPage from './Pages/NoPage';
+import NoPage from './Pages/NoPage';
 import About from './Pages/About';
 import PlacesRoute from './Pages/PlacesRoute';
 import Location from './Components/Location/Location';
@@ -30,7 +30,7 @@ function App() {
             <Route path='/topbrands/*' element={<TopBrands/>}/>
             <Route path='/signup/*' element={<SignUp/>}/>
             <Route path='/login/*' element={<LogIn/>}/>
-            {/* <Route path='*' element={<NoPage/>}/> */}
+            <Route path='*' element={<NoPage/>}/>
           </Route>
         </Routes>
       </BrowserRouter>
