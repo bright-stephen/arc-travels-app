@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arc-travels-app/static/css/main.cd83d1e5.css",
-    "main.js": "/arc-travels-app/static/js/main.a0b8e0c8.js",
+    "main.js": "/arc-travels-app/static/js/main.ecd1e82b.js",
     "static/js/592.7888a2cc.chunk.js": "/arc-travels-app/static/js/592.7888a2cc.chunk.js",
     "static/media/dubai2.mp4": "/arc-travels-app/static/media/dubai2.f734fbc0d0178dfc5768.mp4",
     "static/media/vacation-video.mp4": "/arc-travels-app/static/media/vacation-video.6b1db055e25332a04f3a.mp4",
@@ -16,11 +16,11 @@
     "static/media/Arc.png": "/arc-travels-app/static/media/Arc.6022330b346af99084e9.png",
     "index.html": "/arc-travels-app/index.html",
     "main.cd83d1e5.css.map": "/arc-travels-app/static/css/main.cd83d1e5.css.map",
-    "main.a0b8e0c8.js.map": "/arc-travels-app/static/js/main.a0b8e0c8.js.map",
+    "main.ecd1e82b.js.map": "/arc-travels-app/static/js/main.ecd1e82b.js.map",
     "592.7888a2cc.chunk.js.map": "/arc-travels-app/static/js/592.7888a2cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd83d1e5.css",
-    "static/js/main.a0b8e0c8.js"
+    "static/js/main.ecd1e82b.js"
   ]
 }
