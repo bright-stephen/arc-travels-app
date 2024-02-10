@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/arc-travels-app/static/css/main.cd83d1e5.css",
+    "main.js": "/arc-travels-app/static/js/main.a0b8e0c8.js",
+    "static/js/592.7888a2cc.chunk.js": "/arc-travels-app/static/js/592.7888a2cc.chunk.js",
+    "static/media/dubai2.mp4": "/arc-travels-app/static/media/dubai2.f734fbc0d0178dfc5768.mp4",
+    "static/media/vacation-video.mp4": "/arc-travels-app/static/media/vacation-video.6b1db055e25332a04f3a.mp4",
+    "static/media/beach.jpg": "/arc-travels-app/static/media/beach.ec3d4df3cf4a1e04c429.jpg",
+    "static/media/dubai.jpg": "/arc-travels-app/static/media/dubai.fac2a6d4a05b46a71349.jpg",
+    "static/media/buildings.jpg": "/arc-travels-app/static/media/buildings.86ff1ac354c546cbcea6.jpg",
+    "static/media/paris.jpg": "/arc-travels-app/static/media/paris.ccacb6892090a1f1a778.jpg",
+    "static/media/statue.jpg": "/arc-travels-app/static/media/statue.7dbcecef5d803815fd96.jpg",
+    "static/media/taj-mahal.jpg": "/arc-travels-app/static/media/taj-mahal.7cd958cdb5a93d186f65.jpg",
+    "static/media/bridge.jpg": "/arc-travels-app/static/media/bridge.d2cd5a045b67e1763d60.jpg",
+    "static/media/maldives.jpg": "/arc-travels-app/static/media/maldives.5b7a8b030eb1ae63fbc9.jpg",
+    "static/media/Arc.png": "/arc-travels-app/static/media/Arc.6022330b346af99084e9.png",
+    "index.html": "/arc-travels-app/index.html",
+    "main.cd83d1e5.css.map": "/arc-travels-app/static/css/main.cd83d1e5.css.map",
+    "main.a0b8e0c8.js.map": "/arc-travels-app/static/js/main.a0b8e0c8.js.map",
+    "592.7888a2cc.chunk.js.map": "/arc-travels-app/static/js/592.7888a2cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd83d1e5.css",
+    "static/js/main.a0b8e0c8.js"
+  ]
+}
