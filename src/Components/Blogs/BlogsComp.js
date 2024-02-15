@@ -12,7 +12,7 @@ const blogsData = [
     {
         id: 1,
         image: Img7,
-        title: "Bout tour",
+        title: "Blog post",
         description: "lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit",
         date: "Febuary 2024",
         author: "Blog Source"
@@ -20,7 +20,7 @@ const blogsData = [
     {
         id: 2,
         image: Img8,
-        title: "Bout tour",
+        title: "Blog post",
         description: "lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit",
         date: "Febuary 2024",
         author: "Blog Source"
@@ -28,7 +28,7 @@ const blogsData = [
     {
         id: 3,
         image: Img9,
-        title: "Bout tour",
+        title: "Blog post",
         description: "lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit",
         date: "Febuary 2024",
         author: "Blog Source"
@@ -36,7 +36,7 @@ const blogsData = [
     {
         id: 4,
         image: Img10,
-        title: "Bout tour",
+        title: "Blog post",
         description: "lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit",
         date: "Febuary 2024",
         author: "Blog Source"
@@ -44,7 +44,7 @@ const blogsData = [
     {
         id: 5,
         image: Img11,
-        title: "Bout tour",
+        title: "Blog post",
         description: "lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit",
         date: "Febuary 2024",
         author: "Blog Source"
@@ -52,12 +52,13 @@ const blogsData = [
     {
         id: 6,
         image: Img12,
-        title: "Bout tour",
+        title: "Blog post",
         description: "lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit lorem ipsum dolor sit amnet consectetur adipiscing elit",
         date: "Febuary 2024",
         author: "Blog Source"
     }
 ]
+
 
 function BlogsComp() {
   return (
